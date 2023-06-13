@@ -1,4 +1,4 @@
-**本文本文设计的代码与素材均在[这里](https://github.com/chenmeilong/YOLOV5dataSet)，如果对您有帮助，欢迎start**
+**本文设计的代码与素材均在[这里](https://github.com/chenmeilong/YOLOV5dataSet)，如果对您有帮助，欢迎start**
 ## 1.打标签
 执行labelImg.exe，制作xml数据集
 ![e401f52d-2597-452c-b655-784464a6d7c9.png](http://img.cmlt.fun/article/e401f52d-2597-452c-b655-784464a6d7c9.png)
