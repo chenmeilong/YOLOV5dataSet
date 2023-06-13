@@ -1,4 +1,4 @@
-**本文设计的代码与素材均在[这里](https://github.com/chenmeilong/YOLOV5dataSet)，如果对您有帮助，欢迎start**
+**本文涉及的代码与素材均在[这里](https://github.com/chenmeilong/YOLOV5dataSet)，如果对您有帮助，欢迎start**
 ## 1.打标签
 执行labelImg.exe，制作xml数据集
 ![e401f52d-2597-452c-b655-784464a6d7c9.png](http://img.cmlt.fun/article/e401f52d-2597-452c-b655-784464a6d7c9.png)
@@ -8,7 +8,7 @@
 将图片放在JPEGImages中
 ![451064a5-6f2e-4045-8509-185662c4693d.png](http://img.cmlt.fun/article/451064a5-6f2e-4045-8509-185662c4693d.png)
 
-## 3.用python依次执行1,2,3，后面会提供1,2,3程序
+## 3.用python依次执行1,2,3
 注意：执行1.数据集划分.py之前需要修改数据集划分的比例（可以不修改）
 ![fcbef480-c838-47f8-a38f-b60b6a5d69a7.png](http://img.cmlt.fun/article/fcbef480-c838-47f8-a38f-b60b6a5d69a7.png)
 注意：执行2.voc_label.py之前需要修改类别（必须修改）
